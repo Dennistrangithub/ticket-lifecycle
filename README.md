@@ -53,7 +53,7 @@ In this stage, we focus on the pivotal aspects of ticket management: assignment 
 <img src="https://github.com/Dennistrangithub/ticket-lifecycle/assets/152820266/fc89525c-d979-4e07-a631-591d8c69a0a2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-in this photo we assigned the ticket to someone who is more known to handle software issues and the ticket now "belongs" to Angelo
+in this photo, we assigned the ticket to someone who is more known to handle software issues and the ticket now "belongs" to Angelo
 </p>
 <br />
 
